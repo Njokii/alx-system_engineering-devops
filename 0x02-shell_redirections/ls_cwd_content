@@ -1,0 +1,15 @@
+total 40
+drwxr-xr-x 2 root root 262 Mar 13 01:58 .
+drwxr-xr-x 6 root root 104 Mar 13 00:48 ..
+-rwxr--r-- 1 root root  32 Mar 13 00:50 0-hello_world
+-rwxr--r-- 1 root root  28 Mar 13 01:01 1-confused_smiley
+-rwxr--r-- 1 root root  28 Mar 13 01:02 2-hellofile
+-rwxr--r-- 1 root root  39 Mar 13 01:03 3-twofiles
+-rwxr--r-- 1 root root  36 Mar 13 01:05 4-lastlines
+-rwxr--r-- 1 root root  36 Mar 13 01:07 5-firstlines
+-rwxr--r-- 1 root root  46 Mar 13 01:11 6-third_line
+-rwxr--r-- 1 root root  63 Mar 13 01:52 7-file
+-rwxr--r-- 1 root root  37 Mar 13 01:57 8-cwd_state
+-rw-r--r-- 1 root root   0 Mar 13 01:48 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 801 Mar 13 01:08 iacta
+-rw-r--r-- 1 root root   0 Mar 13 01:58 ls_cwd_content
